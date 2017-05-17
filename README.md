@@ -1,1 +1,1 @@
-# WannCry-BC-Tracker
+# WannaCry-BC-Tracker
