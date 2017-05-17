@@ -1,0 +1,6 @@
+c:\users\thefl\documents\visual studio 2017\Projects\WannaCryBC\WannaCryBC\bin\Debug\WannaCryBC.exe.config
+c:\users\thefl\documents\visual studio 2017\Projects\WannaCryBC\WannaCryBC\bin\Debug\WannaCryBC.exe
+c:\users\thefl\documents\visual studio 2017\Projects\WannaCryBC\WannaCryBC\bin\Debug\WannaCryBC.pdb
+c:\users\thefl\documents\visual studio 2017\Projects\WannaCryBC\WannaCryBC\obj\Debug\WannaCryBC.csprojResolveAssemblyReference.cache
+c:\users\thefl\documents\visual studio 2017\Projects\WannaCryBC\WannaCryBC\obj\Debug\WannaCryBC.exe
+c:\users\thefl\documents\visual studio 2017\Projects\WannaCryBC\WannaCryBC\obj\Debug\WannaCryBC.pdb

@@ -1,0 +1,5 @@
+C:\Users\thefl\Documents\Visual Studio 2017\Projects\WannaCryBC\WannaCryBC\bin\Release\WannaCryBC.exe.config
+C:\Users\thefl\Documents\Visual Studio 2017\Projects\WannaCryBC\WannaCryBC\bin\Release\WannaCryBC.exe
+C:\Users\thefl\Documents\Visual Studio 2017\Projects\WannaCryBC\WannaCryBC\bin\Release\WannaCryBC.pdb
+C:\Users\thefl\Documents\Visual Studio 2017\Projects\WannaCryBC\WannaCryBC\obj\Release\WannaCryBC.exe
+C:\Users\thefl\Documents\Visual Studio 2017\Projects\WannaCryBC\WannaCryBC\obj\Release\WannaCryBC.pdb
