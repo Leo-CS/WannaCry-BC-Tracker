@@ -23,7 +23,7 @@ Several libraries are required for the tool to function properly. These librarie
 
 ### Windows Version
 ```
-Run the WannaCryBC.exe.
+Run the WannaCryBC.exe executable.
 ```
 ![alt tag](./pics/wc.PNG)
 
