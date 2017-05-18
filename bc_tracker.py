@@ -38,7 +38,7 @@ def printConvRates(bc, conv):
 
 
 value = getBC(bchain_grba)
-print("\n\nBitcoin payed:  " + str(round(value, 2)))
+print("\n\nBitcoin paid:  " + str(round(value, 2)))
 print("----------------------------------------")
 rates = getExchRates(exch_rates)
 printConvRates(value, rates)
