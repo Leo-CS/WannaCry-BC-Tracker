@@ -22,9 +22,9 @@ Several libraries are required for the tool to function properly. These librarie
 ## Usage
 
 ### Windows Version
-```
+
 Run the WannaCryBC.exe executable.
-```
+
 ![alt tag](./pics/wc.PNG)
 
 ### Python Version
